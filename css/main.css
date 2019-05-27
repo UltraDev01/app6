@@ -983,6 +983,10 @@ button.btn.btn-theme-color:hover{
 
 }
 
+.map {
+  margin-bottom: 40px;
+  padding: 0 10px;
+}
 
 /*============================================================
 	Mobile (Landscape) Design for a width of 480px
